@@ -1,0 +1,117 @@
+<resources>
+    <string name="app_name">TravelBear</string>
+    <string name="create_trip">Create Your Trip</string>
+    <string name="create_trip_title">Create Trip</string>
+    <string name="action_share">Share</string>
+    <string name="title_top">Top fragment</string>
+    <string name="title_favorite">Favorite Fragment</string>
+    <string name="title_guiders">Guiders Fragment</string>
+    <string name="user_name">Username or email</string>
+    <string name="password">Password</string>
+    <string name="been">Been</string>
+    <string name="conpassword">Confirm Password</string>
+
+    <string name="login">Login</string>
+    <string name="singein">Sign up</string>
+
+
+    <string-array name="locations">
+        <item>Kandy</item>
+        <item>Kurunagala</item>
+    </string-array>
+
+    <string name="home_tab">Home</string>
+    <string name="locations_tab">Locations</string>
+    <string name="favorites_tab">Favorites</string>
+    <string name="wherebeen">your Past destination</string>
+    <string name="guiders_tab">Guiders</string>
+    <string name="company_name">Travel Bear</string>
+    <string name="company_image">Company image</string>
+    <string name="location_detail">Location Detail</string>
+    <string name="previous">previous</string>
+    <string name="next">Next</string>
+    <string name="favorites">Your favorite locations:</string>
+
+    <string name="sigiriya">
+        Sigiriya also known as Sinhagiri is an ancient rock fortress located
+        in the northern Matale District near the town of Dambulla in the Central
+        Province, Sri Lanka.The name refers to a site of historical and archaeological
+        significance that is dominated by a massive column of rock nearly 200 metres (660 ft) high.
+    </string>
+
+    <string name="sembuwatte">
+        Sembuwatta Lake is a tourist attraction situated at Elkaduwa in the Matale District of Sri Lanka,
+        adjacent to the Campbell’s Lane Forest Reserve. Sembuwatta Lake is a man-made lake created
+        from natural spring water. Alongside the lake is a natural swimming pool.
+        Sembuwatta Lake is believed to be 9 m (30 ft) to 12 m (39 ft) deep.
+    </string>
+
+    <string name="loolkadura">
+        The Loolkandura estate was the first tea plantation estate in Sri Lanka (Ceylon) started in 1867
+        by Englishman James Taylor, it is situated in Kandy District. Loolkandura is located in 7 km
+        from Delthota town on the Hewaheta road.Kondagala is the rock located just behind the JT cottage
+        in loolkandura. The foot path to the rock starts at the Right corner of the JT cottage. There is a 300
+        meters hike to reach the top.
+    </string>
+
+    <string name="riverston">
+        The Riverston Peak in Sri Lanka can be reached by travelling, about 30km away from
+        the Matale town, down the Matale – Girandurukotte Road. This secretive windy road,
+        with its sharp hairpin turns, offers some of the best views to the surrounding countryside;
+        to the extent that it is called the Mini World’s End. Riverston trek also offers two graceful
+        waterfalls Sera Ella and Bambarakiri Ella.
+    </string>
+
+    <string name="pidurangala">
+        Pidurangala is an enormous rock located a few kilometres north of Sigiriya. Upon entry there’s
+        a pretty little temple at the bottom. And there are Rock formations, a reclining buddha and even
+        a couple of cobras can be spotted on the way up. Pidurangala Rock really is a beautiful hike and
+        well worth the climb.
+    </string>
+
+
+
+    <string name="home_text">Since we opened our doors in 2017, Bits and Pizzas
+        has built its reputation as one of America’s best Italian-Digital
+        restaurants. Some people believe eating out is about being with your
+        friends and family. We believe that good food is best enjoyed while
+        staring at your phone.</string>
+
+    <string name="ddbandara">
+        A qualified guide with two years of experiences in the tour guide industry.
+        Have good communicating skills. Have followed an Emergency Response Training Course.
+    </string>
+
+   <string name="hhRanasinghe">
+    Have three years of experience in the industry.
+    And Completed a Life Savers Training.
+   </string>
+
+    <string name="caption1">
+        We provide best locations you want to travel. You can view relevant details
+        and can select places you want to visit.You can get to know about the unpopular but
+        amazing  places around.
+    </string>
+
+    <string name="caption2">
+      We provide best guiders you want. Discover, plan and book your perfect trip with expert
+        advice and qualified travel guides.And we give you the chance to book guides by yourself.
+    </string>
+
+    <string name="caption3">
+        You can save your favorite locations. And you can save the places you have already been.
+        Make your own list of favorite locations and a list of been locations.
+    </string>
+
+    <string name="caption4">
+        You can save your favorite locations. And you can save the places you have already been.
+        Make your own list of favorite locations and a list of been locations.
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
+
+</resources>

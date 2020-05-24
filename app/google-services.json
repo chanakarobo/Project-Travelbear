@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1042307235922",
+    "firebase_url": "https://travelbare-2973a.firebaseio.com",
+    "project_id": "travelbare-2973a",
+    "storage_bucket": "travelbare-2973a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042307235922:android:8cc5afa48acf7425959f8b",
+        "android_client_info": {
+          "package_name": "com.example.travelbear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042307235922-jgg1in288didjma06jmcg8uub1utdlf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF1PBcXFcTM8U9GklqQP_EX8uLT5aVNdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042307235922-jgg1in288didjma06jmcg8uub1utdlf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
